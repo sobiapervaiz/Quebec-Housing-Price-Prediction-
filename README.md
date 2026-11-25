@@ -91,7 +91,12 @@ quebec-housing-price-prediction/
 
 
 ---
+<img width="770" height="934" alt="download (1)" src="https://github.com/user-attachments/assets/7e7bc007-ea2d-4da6-902b-12e59d7f3296" />
 
+SHAP Summary shows living_area_sqft:
+"Living Area (SqFt)" at the top with:
+- Red dots (large houses) on the RIGHT → High square footage INCREASES the price.
+- Blue dots (small houses) on the LEFT → Low square footage DECREASES the price.
 
 
 ---
